@@ -4,5 +4,5 @@
 
 ## ページ
 
-[サンプルページ](./sample-page)
-[Ubuntuに最新版のRubyをインストールする方法](./ubuntu-install-ruby)
+- [サンプルページ](./sample-page)
+- [Ubuntuに最新版のRubyをインストールする方法](./ubuntu-install-ruby)

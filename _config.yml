@@ -7,3 +7,4 @@ future: true
 jailed: false
 theme: jekyll-theme-primer
 gfm_quirks: paragraph_end
+google_analytics: UA-145857349-1

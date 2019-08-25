@@ -3,5 +3,10 @@
 
 @import "{{ site.theme }}";
 .header {
-    background: #33CCFF	
+    background: #33CCFF
+}
+.header a {
+    font-size: 300%;
+    color: #ffffff;
+    text-decoration: none;
 }

@@ -4,7 +4,7 @@ Android のアプリを開発していて、処理に時間がかかっている
 割り出したい時には **Profiler** の **Flame Chart**
 タブが役立ちます。
 
-https://developer.android.com/studio/profile/cpu-profiler.html?hl=ja
+[公式ドキュメント](https://developer.android.com/studio/profile/cpu-profiler.html?hl=ja)
 
 Flame Chart タブに表示されるチャートでは、
 呼び出し元を共有する同一メソッドが一つにまとめられて表示されます。

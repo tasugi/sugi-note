@@ -8,4 +8,4 @@
 - [Gitでローカルのコミット履歴を修正する方法](./git-modify-log)
 - [Linuxで使えるSQLite操作GUIアプリケーション](./sqlitebrowser)
 - [Android で処理に時間がかかっているメソッドを特定する方法](./find-slow-method)
-
+- [Git でローカルの変更を破棄してリモートレポジトリに揃える](./git-reset-origin)

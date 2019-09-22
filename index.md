@@ -9,3 +9,4 @@
 - [Linuxで使えるSQLite操作GUIアプリケーション](./sqlitebrowser)
 - [Android で処理に時間がかかっているメソッドを特定する方法](./find-slow-method)
 - [Git でローカルの変更を破棄してリモートレポジトリに揃える](./git-reset-origin)
+- [C/C++ のコードを自動でフォーマットする](./clang-format)

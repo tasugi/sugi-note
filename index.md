@@ -11,3 +11,4 @@
 - [Git でローカルの変更を破棄してリモートレポジトリに揃える](./git-reset-origin)
 - [C/C++ のコードを自動でフォーマットする](./clang-format)
 - [Android の Systrace を実行すると "ImportError: No module named six" と表示される](./systrace-six)
+- [Vim で Kotlin の Syntax Highlight を有効にする](.vim-kotlin-highlight)
